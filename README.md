@@ -83,6 +83,3 @@ Admins can open `http://localhost:5000/admin.html` to review users, startups, me
 - Optionally set `RESET_PASSWORD_EXPIRE_MINUTES`; it defaults to 15.
 - Set `CLIENT_ORIGIN` to your deployed website origin, for example `https://your-domain.com`. Use a comma-separated list if you need multiple allowed origins.
 - Deploy from the repository root with `npm start`; the server will serve the client and API from the same origin.
-
-##Live on render
-https://business-inc.onrender.com/index.html
